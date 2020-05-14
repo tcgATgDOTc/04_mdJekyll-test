@@ -1,0 +1,12 @@
+## basic info ##
+title: mdJekyll test
+author: tcg
+email: tctATgDOTc
+description: test of 04_mdJekyll instrument for L-info
+twitter_username: tbd
+github_username: tcgATgDOTc
+
+## build settings ##
+markdown: kramdown
+theme: minima
+
